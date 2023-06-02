@@ -1,5 +1,5 @@
 # Snake_Game
-Snake Game using Python.
+Snake Game using Python with tkinter library.
 
 ![](snake-game-demo.gif)
 
