@@ -1,6 +1,5 @@
 # Snake_Game
-# Snake_Game (Python)
-Snake Game is Simple old game re-created using Python 
+Snake Game using Python.
 
 ![](snake-game-demo.gif)
 
